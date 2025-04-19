@@ -1,4 +1,4 @@
-# Linear Regression Child Weight at Birth and Gestation Details
+# Child Weight at Birth and Gestation Details
 
 #  kagglehub.load_dataset("jacopoferretti/child-weight-at-birth-and-gestation-details")
 
